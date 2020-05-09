@@ -1,5 +1,5 @@
 package com.tasarım.singelton;
-
+/* main metodu*/
 public class Main {
 
     public static void main(String[] args) {
