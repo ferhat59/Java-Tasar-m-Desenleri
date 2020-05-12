@@ -12,14 +12,11 @@ public class GM9Fabrika implements TelefonFabrika {
     }
     @Override
     public Telefon getTelefon(String model, int fiyat) {
-
         return new GM9(model,fiyat);
-
     }
     public static GM9Fabrika getGM9Fabrika(){
                 if(gm9Fabrika==null){
                     gm9Fabrika= new GM9Fabrika();
-
             }
         return  gm9Fabrika;
         }
