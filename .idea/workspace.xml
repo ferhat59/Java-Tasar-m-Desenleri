@@ -1,19 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/com/tasarım/builder/EvBuilder.java" description="return this;" line="31" />
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2e8b0db-33fe-46b7-9841-f9f7ddfe52fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/tasarım/builder/EvBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tasarım/builder/ev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/Prototype/CloneInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/Prototype/MaliyetliSınıf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/Prototype/MaliyetliSınıf2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/Prototype/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/Bridge/Muzik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/Bridge/SesCihazı/Kulaklık.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/Bridge/SesCihazı/SesCihazı.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/Bridge/enerji/Bilgisayar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/Bridge/enerji/EnerjiKaynağıPc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/Bridge/enerji/Telefon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/Bridge/muzikcalar/MüzikCalar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/Bridge/muzikcalar/Spotify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/Bridge/muzikcalar/VLC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/adapter/ElektrikliAletler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/adapter/Priz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/adapter/Telefon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/adapter/TelefonElektikaletAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/adapter/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/adapter/YerliTelefon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tasarım/AbstractFactory/Fabrikalar/GM9Fabrika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/AbstractFactory/Fabrikalar/GM9Fabrika.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tasarım/AbstractFactory/Fabrikalar/VestelZ20Fabrika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/AbstractFactory/Fabrikalar/VestelZ20Fabrika.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tasarım/singelton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/singelton/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tasarım/META-INF/tasarım.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tasarım/META-INF/tasarım.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/AbstractFactory/Fabrikalar/GM9Fabrika.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/AbstractFactory/Fabrikalar/VestelZ20Fabrika.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/AbstractFactory/Telefon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/AbstractFactory/TelefonFabrika.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/AbstractFactory/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/AbstractFactory/model/GM9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/AbstractFactory/model/VestelZ20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/builder/Emlakci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/builder/EvBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/builder/ev.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/factory/Fabrika/Telefon_Fabrikası.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/factory/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/singelton/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/singelton/Singelton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tasarım/AbstractFactory/Fabrikalar/GM9Fabrika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/AbstractFactory/Fabrikalar/GM9Fabrika.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tasarım/AbstractFactory/Fabrikalar/VestelZ20Fabrika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/AbstractFactory/Fabrikalar/VestelZ20Fabrika.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tasarım/AbstractFactory/Telefon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/AbstractFactory/Telefon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tasarım/AbstractFactory/TelefonFabrika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/AbstractFactory/TelefonFabrika.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tasarım/AbstractFactory/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/AbstractFactory/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tasarım/AbstractFactory/model/GM9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/AbstractFactory/model/GM9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tasarım/AbstractFactory/model/VestelZ20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/AbstractFactory/model/VestelZ20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tasarım/builder/Emlakci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/builder/Emlakci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tasarım/builder/EvBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/builder/EvBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tasarım/builder/ev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/builder/ev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tasarım/factory/Fabrika/Telefon_Fabrikası.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/factory/Fabrika/Telefon_Fabrikası.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tasarım/factory/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/factory/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tasarım/singelton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/singelton/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tasarım/singelton/Singelton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/singelton/Singelton.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,68 +77,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/tasarım/builder/Emlakci.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/tasarım/builder/EvBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-              <folding>
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/tasarım/builder/ev.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-              <folding>
-                <element signature="e#565#566#0" expanded="true" />
-                <element signature="e#605#606#0" expanded="true" />
-                <element signature="e#637#638#0" expanded="true" />
-                <element signature="e#670#671#0" expanded="true" />
-                <element signature="e#702#703#0" expanded="true" />
-                <element signature="e#749#750#0" expanded="true" />
-                <element signature="e#791#792#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/tasarım/factory/main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="9" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/tasarım/singelton/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -92,97 +86,22 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
-    <dirStrings>
-      <dir>C:\Users\ferha\OneDrive\Masaüstü\tasarım\src\com\tasarım</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/tasarım/singelton/Singelton.java" />
-        <option value="$PROJECT_DIR$/src/com/tasarım/factory/Telefon.java" />
-        <option value="$PROJECT_DIR$/src/com/tasarım/factory/Fabrika/Telefon_Fabrikası.java" />
-        <option value="$PROJECT_DIR$/src/com/tasarım/factory/model/GM9.java" />
-        <option value="$PROJECT_DIR$/src/com/tasarım/factory/model/VestelZ20.java" />
-        <option value="$PROJECT_DIR$/src/com/tasarım/AbstractFactory/TelefonFabrika.java" />
-        <option value="$PROJECT_DIR$/src/com/tasarım/AbstractFactory/main.java" />
-        <option value="$PROJECT_DIR$/src/com/tasarım/AbstractFactory/Fabrikalar/GM9Fabrika.java" />
-        <option value="$PROJECT_DIR$/src/com/tasarım/AbstractFactory/Fabrikalar/VestelZ20Fabrika.java" />
-        <option value="$PROJECT_DIR$/src/com/tasarım/factory/main.java" />
-        <option value="$PROJECT_DIR$/src/com/tasarim/singelton/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/tasarım/singelton/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/tasarım/builder/Emlakçı.java" />
-        <option value="$PROJECT_DIR$/src/com/tasarım/builder/ev.java" />
-        <option value="$PROJECT_DIR$/src/com/tasarım/builder/EvBuilder.java" />
-        <option value="$PROJECT_DIR$/src/com/tasarım/builder/Emlakci.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="210" />
-    <option name="y" value="199" />
-    <option name="width" value="1386" />
-    <option name="height" value="404" />
-  </component>
+  <component name="ProjectId" id="1cnnJJqnHDsImhA8xm6W1oIn1qO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="tasarım" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tasarım" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tasarım" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tasarım" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tasarım" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tasarım" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tasarım" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tasarım" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tasarım" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tasarım" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tasarım" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tasarım" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tasarım" type="462c0819:PsiDirectoryNode" />
-              <item name="singelton" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -193,26 +112,18 @@
       <recent name="com.tasarım.AbstractFactory.Fabrikalar" />
       <recent name="com.tasarım.factory.model" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.tasarım.Yapısal.Bridge" />
+      <recent name="com.tasarım.Yapısal.adapter" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Emlakci">
+  <component name="RunManager" selected="Application.Test (1)">
     <configuration name="Emlakci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tasarım.builder.Emlakci" />
+      <option name="MAIN_CLASS_NAME" value="com.tasarım.Oluşturucu.builder.Emlakci" />
       <module name="tasarım" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tasarım.builder.*" />
+          <option name="PATTERN" value="com.tasarım.Oluşturucu.builder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,22 +131,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.tasarım.singelton.Main" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tasarım.Yapısal.adapter.Test" />
       <module name="tasarım" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tasarım.Yapısal.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tasarım.AbstractFactory.main" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tasarım.Oluşturucu.Prototype.Test" />
       <module name="tasarım" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tasarım.AbstractFactory.*" />
+          <option name="PATTERN" value="com.tasarım.Oluşturucu.Prototype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,11 +158,24 @@
       </method>
     </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tasarım.factory.main" />
+      <option name="MAIN_CLASS_NAME" value="com.tasarım.Oluşturucu.factory.main" />
       <module name="tasarım" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tasarım.AbstractFactory.*" />
+          <option name="PATTERN" value="com.tasarım.Oluşturucu.AbstractFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tasarım.Oluşturucu.AbstractFactory.main" />
+      <module name="tasarım" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tasarım.Oluşturucu.AbstractFactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,19 +197,17 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.main" />
-      <item itemvalue="Application.main (1)" />
       <item itemvalue="Application.Emlakci" />
-      <item itemvalue="Application.main (2)" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Emlakci" />
-        <item itemvalue="Application.main (2)" />
-        <item itemvalue="Application.main (1)" />
         <item itemvalue="Application.main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -301,231 +226,69 @@
       <workItem from="1589146894259" duration="764000" />
       <workItem from="1589293085678" duration="1957000" />
       <workItem from="1589299327378" duration="2791000" />
+      <workItem from="1591173163981" duration="486000" />
+      <workItem from="1591992302710" duration="94000" />
+      <workItem from="1598191076766" duration="4630000" />
+      <workItem from="1598201492605" duration="1386000" />
+      <workItem from="1598281579283" duration="2562000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13318000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="GraphQL" order="7" weight="0.3289689" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" weight="0.3289689" />
-      <window_info anchor="bottom" id="Docker" order="9" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.30441898" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="491" y="118" width="466" height="383" key="#com.intellij.ide.util.MemberChooser" timestamp="1598287487823">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="491" y="118" width="466" height="383" key="#com.intellij.ide.util.MemberChooser/0.30.1366.738@0.30.1366.738" timestamp="1598287487823" />
+    <state x="466" y="157" width="424" height="487" key="FileChooserDialogImpl" timestamp="1591173283924">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="466" y="157" width="424" height="487" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1591173283924" />
+    <state width="1320" height="173" key="GridCell.Tab.0.bottom" timestamp="1598194903703">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1320" height="173" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1598194903703" />
+    <state width="1320" height="173" key="GridCell.Tab.0.center" timestamp="1598194903702">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1320" height="173" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1598194903702" />
+    <state width="1320" height="173" key="GridCell.Tab.0.left" timestamp="1598194903702">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1320" height="173" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1598194903702" />
+    <state width="1320" height="173" key="GridCell.Tab.0.right" timestamp="1598194903703">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1320" height="173" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1598194903703" />
+    <state x="67" y="30" width="1222" height="738" key="new project wizard" timestamp="1591992707981">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="67" y="30" width="1222" height="738" key="new project wizard/0.30.1366.738@0.30.1366.738" timestamp="1591992707981" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/tasarım/singelton/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/com/tasarım/Oluşturucu/singelton/Main.java</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/tasarım/builder/EvBuilder.java</url>
-          <line>25</line>
-          <properties />
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/tasarım/builder/EvBuilder.java</url>
-          <line>30</line>
-          <properties />
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/tasarım/builder/Emlakci.java</url>
-          <line>7</line>
-          <properties />
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/tasarım/builder/Emlakci.java</url>
-          <line>6</line>
-          <properties />
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/tasarım/builder/Emlakci.java</url>
-          <line>8</line>
-          <properties />
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/tasarım/builder/EvBuilder.java</url>
-          <line>11</line>
-          <properties />
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/tasarım/builder/EvBuilder.java</url>
-          <line>13</line>
-          <properties class="com.tasarım.builder.EvBuilder" method="build">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/tasarım/singelton/Singelton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tasarım/AbstractFactory/model/GM9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tasarım/AbstractFactory/Telefon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tasarım/AbstractFactory/TelefonFabrika.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tasarım/AbstractFactory/Fabrikalar/VestelZ20Fabrika.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="7" />
-          <folding>
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tasarım/AbstractFactory/Fabrikalar/GM9Fabrika.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tasarım/AbstractFactory/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tasarım/AbstractFactory/model/VestelZ20.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tasarım/factory/Fabrika/Telefon_Fabrikası.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tasarım/factory/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="9" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tasarım/singelton/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tasarım/builder/ev.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-          <folding>
-            <element signature="e#565#566#0" expanded="true" />
-            <element signature="e#605#606#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-            <element signature="e#670#671#0" expanded="true" />
-            <element signature="e#702#703#0" expanded="true" />
-            <element signature="e#749#750#0" expanded="true" />
-            <element signature="e#791#792#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tasarım/builder/EvBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-          <folding>
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tasarım/builder/Emlakci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
