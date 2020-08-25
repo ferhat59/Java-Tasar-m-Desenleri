@@ -19,56 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2e8b0db-33fe-46b7-9841-f9f7ddfe52fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/Prototype/CloneInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/Prototype/MaliyetliSınıf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/Prototype/MaliyetliSınıf2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/Prototype/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/Bridge/Muzik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/Bridge/SesCihazı/Kulaklık.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/Bridge/SesCihazı/SesCihazı.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/Bridge/enerji/Bilgisayar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/Bridge/enerji/EnerjiKaynağıPc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/Bridge/enerji/Telefon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/Bridge/muzikcalar/MüzikCalar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/Bridge/muzikcalar/Spotify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/Bridge/muzikcalar/VLC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/adapter/ElektrikliAletler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/adapter/Priz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/adapter/Telefon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/adapter/TelefonElektikaletAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/adapter/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/adapter/YerliTelefon.java" afterDir="false" />
+    <list default="true" id="b2e8b0db-33fe-46b7-9841-f9f7ddfe52fb" name="Default Changelist" comment="Yapısal Tasarımlar">
+      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/composite/FiyatHesaplamaUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/composite/FiyatlanabilirÜrün.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/composite/Kumanya.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/composite/Paket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/composite/Sepet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tasarım/Yapısal/composite/ürün.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tasarım/META-INF/tasarım.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tasarım/META-INF/tasarım.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/AbstractFactory/Fabrikalar/GM9Fabrika.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/AbstractFactory/Fabrikalar/VestelZ20Fabrika.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/AbstractFactory/Telefon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/AbstractFactory/TelefonFabrika.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/AbstractFactory/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/AbstractFactory/model/GM9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/AbstractFactory/model/VestelZ20.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/builder/Emlakci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/builder/EvBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/builder/ev.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/factory/Fabrika/Telefon_Fabrikası.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/factory/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/singelton/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tasarım/com/tasarım/singelton/Singelton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tasarım/AbstractFactory/Fabrikalar/GM9Fabrika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/AbstractFactory/Fabrikalar/GM9Fabrika.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tasarım/AbstractFactory/Fabrikalar/VestelZ20Fabrika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/AbstractFactory/Fabrikalar/VestelZ20Fabrika.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tasarım/AbstractFactory/Telefon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/AbstractFactory/Telefon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tasarım/AbstractFactory/TelefonFabrika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/AbstractFactory/TelefonFabrika.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tasarım/AbstractFactory/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/AbstractFactory/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tasarım/AbstractFactory/model/GM9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/AbstractFactory/model/GM9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tasarım/AbstractFactory/model/VestelZ20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/AbstractFactory/model/VestelZ20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tasarım/builder/Emlakci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/builder/Emlakci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tasarım/builder/EvBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/builder/EvBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tasarım/builder/ev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/builder/ev.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tasarım/factory/Fabrika/Telefon_Fabrikası.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/factory/Fabrika/Telefon_Fabrikası.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tasarım/factory/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/factory/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tasarım/singelton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/singelton/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tasarım/singelton/Singelton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tasarım/Oluşturucu/singelton/Singelton.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,6 +72,7 @@
       <recent name="com.tasarım.factory.model" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.tasarım.Yapısal.composite" />
       <recent name="com.tasarım.Yapısal.Bridge" />
       <recent name="com.tasarım.Yapısal.adapter" />
     </key>
@@ -230,8 +190,19 @@
       <workItem from="1591992302710" duration="94000" />
       <workItem from="1598191076766" duration="4630000" />
       <workItem from="1598201492605" duration="1386000" />
-      <workItem from="1598281579283" duration="2562000" />
+      <workItem from="1598281579283" duration="3664000" />
+      <workItem from="1598355384354" duration="424000" />
+      <workItem from="1598358562198" duration="410000" />
+      <workItem from="1598381207145" duration="2177000" />
     </task>
+    <task id="LOCAL-00001" summary="Yapısal Tasarımlar">
+      <created>1598291121866</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598291121866</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,11 +220,15 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Yapısal Tasarımlar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Yapısal Tasarımlar" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="491" y="118" width="466" height="383" key="#com.intellij.ide.util.MemberChooser" timestamp="1598287487823">
+    <state x="491" y="118" width="466" height="383" key="#com.intellij.ide.util.MemberChooser" timestamp="1598382680379">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state x="491" y="118" width="466" height="383" key="#com.intellij.ide.util.MemberChooser/0.30.1366.738@0.30.1366.738" timestamp="1598287487823" />
+    <state x="491" y="118" width="466" height="383" key="#com.intellij.ide.util.MemberChooser/0.30.1366.738@0.30.1366.738" timestamp="1598382680379" />
     <state x="466" y="157" width="424" height="487" key="FileChooserDialogImpl" timestamp="1591173283924">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
@@ -274,10 +249,18 @@
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state width="1320" height="173" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1598194903703" />
-    <state x="67" y="30" width="1222" height="738" key="new project wizard" timestamp="1591992707981">
+    <state x="485" y="94" width="385" height="613" key="RollbackChangesDialog" timestamp="1598358730331">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state x="67" y="30" width="1222" height="738" key="new project wizard/0.30.1366.738@0.30.1366.738" timestamp="1591992707981" />
+    <state x="485" y="94" width="385" height="613" key="RollbackChangesDialog/0.30.1366.738@0.30.1366.738" timestamp="1598358730331" />
+    <state x="278" y="135" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1598291130760">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="278" y="135" width="800" height="531" key="Vcs.Push.Dialog.v2/0.30.1366.738@0.30.1366.738" timestamp="1598291130760" />
+    <state x="67" y="30" width="1222" height="738" key="new project wizard" timestamp="1598358971872">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="67" y="30" width="1222" height="738" key="new project wizard/0.30.1366.738@0.30.1366.738" timestamp="1598358971872" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
